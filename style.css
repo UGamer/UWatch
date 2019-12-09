@@ -48,6 +48,11 @@ h1, h2 {
   width: 100%;
 }
 
+#sidebarButton {
+	width: 100%;
+	text-align: left;
+}
+
 #content {
   background: rgb(41, 41, 41);
   width: 70%;
